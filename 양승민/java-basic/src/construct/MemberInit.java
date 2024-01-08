@@ -11,4 +11,7 @@ public class MemberInit {
         this.age = age;
         this.grade = grade;
     }
+
+    MemberInit(){ //생성자 필요
+    }
 }
