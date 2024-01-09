@@ -31,3 +31,5 @@ G
 src/ref/VarChange2.java,d/4/d41b16e7b13b987773c648da108fa2d6b39c830d
 J
 src/ref/MethodChange1.java,4/f/4ff95927bb0fdcc115455b2eba333814c6168e25
+J
+src/ref/MethodChange2.java,2/2/22cd7cc4cc8849338f92365bba45ff1649022a3a
