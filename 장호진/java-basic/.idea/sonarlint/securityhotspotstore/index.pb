@@ -33,3 +33,9 @@ J
 src/ref/MethodChange1.java,4/f/4ff95927bb0fdcc115455b2eba333814c6168e25
 J
 src/ref/MethodChange2.java,2/2/22cd7cc4cc8849338f92365bba45ff1649022a3a
+D
+src/ref/Student.java,b/1/b19e03ebc0372d7883068c91f460a207264738ba
+D
+src/ref/Method1.java,f/9/f9943b431878ccd6a48a1e14bc3fb074feb6a41f
+D
+src/ref/Method2.java,3/5/35b245c2dfd6169dce8e624a728d79ad79a54719
