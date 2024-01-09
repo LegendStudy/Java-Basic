@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain">
+  <component name="RunManager" selected="Application.VarChange2">
     <configuration name="MovieReviewMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain1" />
       <module name="java-basic2" />
@@ -99,8 +98,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.VarChange1" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.VarChange2" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarChange2" />
+        <item itemvalue="Application.VarChange1" />
         <item itemvalue="Application.ProductOrderMain" />
         <item itemvalue="Application.MovieReviewMain2" />
         <item itemvalue="Application.MovieReviewMain1" />
@@ -115,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704767445719</updated>
-      <workItem from="1704767449922" duration="791000" />
+      <workItem from="1704767449922" duration="1991000" />
     </task>
     <servers />
   </component>
