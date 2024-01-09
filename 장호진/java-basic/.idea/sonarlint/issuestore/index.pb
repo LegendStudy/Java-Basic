@@ -105,3 +105,7 @@ T
 $src/construct/MemberDefaultMain.java,3/0/3021a43d696b258e6b07f46d9428bbe57a75c38b
 Q
 !src/construct/ConstructMain2.java,1/f/1fa08620da6fdc73f3b2c6d9d1bb1d227ad306a3
+J
+src/construct/ex/Book.java,0/9/09f47ee7af3c578750258eb13fbfbd4da2c5ba24
+N
+src/construct/ex/BookMain.java,5/b/5bff225fd74b5f808217b66a43f46f3bfc83cd76
