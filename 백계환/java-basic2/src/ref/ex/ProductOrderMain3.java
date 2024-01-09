@@ -1,6 +1,6 @@
 package ref.ex;
 
-import java.util.Scanner;1
+import java.util.Scanner;
 
 public class ProductOrderMain3 {
 
