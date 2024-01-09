@@ -63,13 +63,13 @@
       <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructMain1">
-    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ex.AccountMain" />
+  <component name="RunManager" selected="Application.MemberDefaultMain">
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.ex.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberDefaultMain" />
         <item itemvalue="Application.ConstructMain1" />
         <item itemvalue="Application.MethodInitMain3" />
         <item itemvalue="Application.MethodInitMain2" />
         <item itemvalue="Application.MethodInitMain1" />
-        <item itemvalue="Application.AccountMain" />
       </list>
     </recent_temporary>
   </component>
