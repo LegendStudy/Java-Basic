@@ -63,3 +63,11 @@ N
 src/oop1/MusicPlayerMain2.java,4/a/4a1b88d7b71d72bcd153d50034217d315fc170af
 N
 src/oop1/MusicPlayerMain3.java,0/7/073dd587d58e7835b22c3910c8e6137e1db0ea2d
+G
+src/oop1/ValueData.java,0/6/0620d162750e6954a7273a9816a1484e812e381b
+K
+src/oop1/ValueDataMain.java,6/e/6ea038be77b20d85613273e40aacbdd88c40e9bf
+I
+src/oop1/ValueObject.java,5/d/5d49a14f58b013619f2971a190bac4ff9641712c
+M
+src/oop1/ValueObjectMain.java,e/4/e4b05d5305bb0acba6a28380ee3cdf9d1dbd9c4a
