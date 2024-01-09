@@ -71,3 +71,7 @@ I
 src/oop1/ValueObject.java,5/d/5d49a14f58b013619f2971a190bac4ff9641712c
 M
 src/oop1/ValueObjectMain.java,e/4/e4b05d5305bb0acba6a28380ee3cdf9d1dbd9c4a
+I
+src/oop1/MusicPlayer.java,6/e/6ec8e7392288148c29b0054341532470e4efe8dd
+N
+src/oop1/MusicPlayerMain4.java,7/e/7e315ef0ba9e7fe352d6da632c5659843612da19
