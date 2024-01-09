@@ -85,3 +85,9 @@ H
 src/oop1/ex/Account.java,e/f/ef5b5956e134edad907f5058b2420cd847c96db2
 L
 src/oop1/ex/AccountMain.java,f/d/fd9e616b2c15c3e880e9ae65c1a44293ffaf8e35
+M
+src/construct/MemberInit.java,5/0/50e6037eae22f796391048a0a2db131ca187c4fd
+R
+"src/construct/MethodInitMain1.java,2/2/227d44259ff5d5df433859fd29d23647a3793eb8
+R
+"src/construct/MethodInitMain2.java,c/b/cb7e926bbc191a412ed075721d84abdbfe734e17
