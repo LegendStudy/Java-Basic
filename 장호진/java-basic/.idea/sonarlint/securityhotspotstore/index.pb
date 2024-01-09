@@ -95,3 +95,7 @@ R
 "src/construct/MethodInitMain3.java,1/c/1c5ab3dc9acead1c59981a8781aced0ce8d025e8
 M
 src/construct/MemberThis.java,c/7/c71c9a323665c141325514ee37ad0302ce103aa0
+R
+"src/construct/MemberConstruct.java,0/2/0273621e884d8e2e971c0c4982307a05e6e00c67
+Q
+!src/construct/ConstructMain1.java,f/d/fd90eb1873fca11b559a0d93048af0aaae667639
