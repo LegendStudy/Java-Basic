@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/ex/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construct/MemberConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,20 @@
       <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructMain2">
+  <component name="RunManager" selected="Application.BookMain">
+    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construct.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java-basic2" />
@@ -101,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodInitMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain2" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="construct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodInitMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain3" />
       <module name="java-basic2" />
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookMain" />
         <item itemvalue="Application.ConstructMain2" />
         <item itemvalue="Application.MemberDefaultMain" />
         <item itemvalue="Application.ConstructMain1" />
         <item itemvalue="Application.MethodInitMain3" />
-        <item itemvalue="Application.MethodInitMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704767445719</updated>
-      <workItem from="1704767449922" duration="15823000" />
+      <workItem from="1704767449922" duration="16129000" />
     </task>
     <servers />
   </component>
