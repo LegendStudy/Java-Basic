@@ -39,3 +39,5 @@ D
 src/ref/Method1.java,f/9/f9943b431878ccd6a48a1e14bc3fb074feb6a41f
 D
 src/ref/Method2.java,3/5/35b245c2dfd6169dce8e624a728d79ad79a54719
+E
+src/ref/NullMain.java,e/8/e8f3a05c04c127d992c51f67ec5ea13b9b2a242b
