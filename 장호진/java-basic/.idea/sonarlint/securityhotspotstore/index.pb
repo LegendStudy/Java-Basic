@@ -41,3 +41,11 @@ D
 src/ref/Method2.java,3/5/35b245c2dfd6169dce8e624a728d79ad79a54719
 E
 src/ref/NullMain.java,e/8/e8f3a05c04c127d992c51f67ec5ea13b9b2a242b
+F
+src/ref/NullMain2.java,4/f/4fe308c0b7d27fe4fdd416f3db30ae667c7b8327
+F
+src/ref/NullMain3.java,7/f/7f5c3571d807f2158a3e064bbd14f8c1fd93999e
+D
+src/ref/BigData.java,1/c/1c8e8a937f8eeece5a9abc31c7bdfc697090da05
+F
+src/ref/NullMain4.java,0/2/0282e8ed65abfe97c5eaa1ab1627e6ff2609d60e
