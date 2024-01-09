@@ -99,3 +99,7 @@ R
 "src/construct/MemberConstruct.java,0/2/0273621e884d8e2e971c0c4982307a05e6e00c67
 Q
 !src/construct/ConstructMain1.java,f/d/fd90eb1873fca11b559a0d93048af0aaae667639
+P
+ src/construct/MemberDefault.java,6/8/684cdb35be8e7c4e993c17d80ad662e9ce742df2
+T
+$src/construct/MemberDefaultMain.java,3/0/3021a43d696b258e6b07f46d9428bbe57a75c38b
