@@ -23,3 +23,11 @@ O
 src/class1/ex/ProductOrder.java,6/1/6169768191b9843294282f5d8e1bf28711088da7
 S
 #src/class1/ex/ProductOrderMain.java,b/9/b932bb85fc0c0425976c41ae7c902defc836ac7b
+G
+src/ref/VarChange1.java,3/7/37e003f845d5e075d347843e4a3cd8d080e65ca7
+A
+src/ref/Data.java,b/6/b64ced35dc082ad3860c3bcbbf62391d8b019c75
+G
+src/ref/VarChange2.java,d/4/d41b16e7b13b987773c648da108fa2d6b39c830d
+J
+src/ref/MethodChange1.java,4/f/4ff95927bb0fdcc115455b2eba333814c6168e25
