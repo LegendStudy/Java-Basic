@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™ü±
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ì¡ãã8­ÏßèÎ1
+U
+java:S1854""8Remove this useless assignment to local variable "isOn".(Âƒ’ 8®ÏßèÎ1
+G	java:S106
+"+Replace this use of System.out by a logger.(Å·ã8ØäİèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(§¤·ä8ØäİèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(§¤·ä8¯ÏßèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(§¤·ä8¯ÏßèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(¯œ˜Ù8¯ÏßèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(æú÷…8°ÏßèÎ1
+G	java:S106"+Replace this use of System.out by a logger.(ïĞ·İ8°ÏßèÎ1
+L	java:S106#"+Replace this use of System.out by a logger.(Úö¢£úÿÿÿÿ8°ÏßèÎ1
