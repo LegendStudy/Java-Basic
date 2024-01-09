@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -57,48 +60,9 @@
       <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NullMain1">
+  <component name="RunManager" selected="Application.NullMain4">
     <configuration name="InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ref.InitMain" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.Method1" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.Method2" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ref.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.MethodChange2" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +87,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NullMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.NullMain2" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.NullMain3" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ref.NullMain4" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullMain4" />
+        <item itemvalue="Application.NullMain3" />
+        <item itemvalue="Application.NullMain2" />
         <item itemvalue="Application.NullMain1" />
         <item itemvalue="Application.InitMain" />
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.MethodChange2" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704767445719</updated>
-      <workItem from="1704767449922" duration="5940000" />
+      <workItem from="1704767449922" duration="6750000" />
     </task>
     <servers />
   </component>
