@@ -4,6 +4,9 @@ public class DacoDataMain {
     public static void main(String[] args) {
         System.out.println("1. 정적 호출");
         DecoData.staticCall();
+        DecoData.staticCall();
+        DecoData.staticCall();
+        DecoData.staticCall();
 
         System.out.println("2. 인스턴스 호출1");
         DecoData data1 = new DecoData();
@@ -14,5 +17,13 @@ public class DacoDataMain {
         data2.instanceCall();
 
         DecoData.staticCall(data1);
+
+        // 추가
+        // 인스턴스를 통한 접근(권장하지 않음)
+        DecoData data3 = new DecoData();
+        data3.staticCall();
+
+        // 클래스를 통한 접근
+        DecoData.staticCall();
     }
 }
