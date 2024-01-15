@@ -27,5 +27,8 @@ public class FinalFieldMain {
         System.out.println(FieldInit.CONST_VALUE);
 
         // final + 필드 초기화를 사용할 경우, static을 붙여서 상수로 만드는 것이 효과적
+
+
+        double pi = Constant.PI;
     }
 }
