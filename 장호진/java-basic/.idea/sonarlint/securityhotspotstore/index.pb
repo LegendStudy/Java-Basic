@@ -165,3 +165,9 @@ F
 src/static1/Data1.java,c/5/c5c7b48e292856b6ffd6b723b258c2e5967c1757
 O
 src/static1/DataCountMain1.java,c/0/c0548ecfb081eb9782a64b9d1eed34b4ae1ccbff
+H
+src/static1/Counter.java,f/c/fc84667df3992f6c2a1157edb43bc3a112bd96fc
+F
+src/static1/Data2.java,8/2/8230189f3e9285a82d47d75cf0161a2996d7a4fb
+O
+src/static1/DataCountMain2.java,2/9/29abf590c42813f7969bc257bb5b32e692945ae4
