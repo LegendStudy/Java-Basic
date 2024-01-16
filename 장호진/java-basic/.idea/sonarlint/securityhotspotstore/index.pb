@@ -155,3 +155,7 @@ O
 src/access/ex/ShoppingCart.java,1/a/1a924c4ca847598fd7de5e80645bf6e64f284d41
 O
 src/memory/JavaMemoryMain1.java,d/e/ded889c230376d118f8183726baa647e7033094f
+D
+src/memory/Data.java,8/2/82ee165c060290dfe175eb2d35488d1558ca37a6
+O
+src/memory/JavaMemoryMain2.java,b/d/bdaab9e123be2aa3d5d456dfa4ea64a6522225b6
