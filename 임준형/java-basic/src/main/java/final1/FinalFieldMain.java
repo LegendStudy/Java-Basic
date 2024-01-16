@@ -23,5 +23,7 @@ public class FinalFieldMain {
         // 상수
         System.out.println("상수");
         System.out.println(FiledInit.CONST_VALUE);
+
+
     }
 }
