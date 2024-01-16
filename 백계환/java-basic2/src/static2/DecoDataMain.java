@@ -14,6 +14,12 @@ public class DecoDataMain {
         DecoData data2 = new DecoData();
         data2.instanceCall();
 
-        DecoData.staticCall(data2);
+        // 추가
+        // 인스턴스를 통한 접근
+        DecoData data3 = new DecoData();
+        data3.staticCall();
+
+        // 클래스를 통한 접근
+        DecoData.staticCall();
     }
 }
