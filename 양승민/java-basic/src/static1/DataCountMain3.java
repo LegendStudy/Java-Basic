@@ -1,5 +1,7 @@
 package static1;
 
+import static2.DecoData;
+
 public class DataCountMain3 {
     public static void main(String[] args) {
         Data3 data1 = new Data3("A");
@@ -18,5 +20,13 @@ public class DataCountMain3 {
 
         //클래스를 통합 접근
         System.out.println(Data3.count);
+
+        //추가
+        //인스턴스를 통한 접근
+        DecoData data5 = new DecoData();
+        data5.staticCall();
+
+        //클래스를 통한 접근
+        DecoData.staticCall();
     }
 }
