@@ -249,3 +249,11 @@ X
 (src/extends1/overriding/ElectricCar.java,a/c/acbf50cf81c323df054bc18312409888dc1d795c
 T
 $src/extends1/overriding/CarMain.java,9/3/93ab2b8d903c6bd962e6474aeda2b87d05dd9d6e
+H
+src/extends1/access.java,f/c/fcb70627089a163efb598b3fa6ff30e6dfe30525
+V
+&src/extends1/access/parent/Parent.java,c/b/cbeb0c5c00781cbdea0066d3ad58a6245d630b84
+T
+$src/extends1/access/child/Child.java,4/d/4d235cb81e262c74076ad12b14267ea137f58e33
+Z
+*src/extends1/access/ExtendsAccessMain.java,4/5/45f7e6fd3f9bdd6c35387f5ec47c7d5be9aa2be5
