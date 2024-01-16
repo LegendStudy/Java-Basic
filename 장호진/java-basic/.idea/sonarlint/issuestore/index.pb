@@ -131,3 +131,11 @@ O
 src/access/AccessInnerMain.java,4/a/4a453b61d37172d2f7b5fae16d2c996fd425f5d4
 O
 src/access/AccessOuterMain.java,2/b/2bbc4c5e38e3ce2e5773807ead2a471467046c89
+K
+src/access/PublicClass.java,3/5/353267b1f7136c7d3ac05fca5ff31bc41a62e97e
+T
+$src/access/PublicClassInnerMain.java,c/a/ca8288cf0f51e472538087f573f755717ca5515c
+M
+src/access/a/PublicClass.java,4/c/4cd22e8e254c914cfe2b23e1ad386fe3eb4f3ad7
+V
+&src/access/a/PublicClassInnerMain.java,9/d/9da663f1b056c7859041c17e46eccd38f0b1744e
