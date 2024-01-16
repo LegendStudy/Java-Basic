@@ -257,3 +257,17 @@ T
 $src/extends1/access/child/Child.java,4/d/4d235cb81e262c74076ad12b14267ea137f58e33
 Z
 *src/extends1/access/ExtendsAccessMain.java,4/5/45f7e6fd3f9bdd6c35387f5ec47c7d5be9aa2be5
+O
+src/extends1/super1/Parent.java,3/7/37916323672fbfa3b87dee82996fb4fe5ea06d62
+N
+src/extends1/super1/Child.java,9/7/976b0925d622c168e4606dfe09f57e08853c294f
+S
+#src/extends1/super1/Super1Main.java,8/5/857550a7f8694ff339d0893e8091a561b89d357f
+O
+src/extends1/super2/ClassA.java,3/a/3a82c887a7e914803d5f54f737f39393a4c47c48
+O
+src/extends1/super2/ClassB.java,5/f/5f6c4685bb95749e71df6ad93d97fa8be5f06448
+O
+src/extends1/super2/ClassC.java,0/3/038601cd369e52c10d8d52e6b5dba8ad30e719c3
+S
+#src/extends1/super2/Super2Main.java,c/8/c8c3dd56e547cd9ed61506b23ea04727e7d9130e

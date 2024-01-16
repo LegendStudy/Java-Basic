@@ -1,0 +1,7 @@
+
+n
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(äå•8›¡Ñ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆôú«
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ‡¬Áşÿÿÿÿ8¡Ñ1
+G	java:S106	"+Replace this use of System.out by a logger.( ’ì×8µÊ¡Ñ1
+X	java:S125	"<This block of commented-out lines of code should be removed.( ’ì×8¶Ê¡Ñ1
