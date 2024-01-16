@@ -121,3 +121,7 @@ D
 src/pack/b/User.java,e/d/ed35b3f0c69071ffeca2a27d7edfd1811d5bca9c
 J
 src/pack/PackageMain3.java,8/5/8527b2ecff5827429c8c541486a5c7dae45e98c5
+G
+src/access/Speaker.java,f/8/f846f07e24c59d6282e318256a10802f829bad27
+K
+src/access/SpeakerMain.java,3/8/38892518a5d963e7fd03adaffa4ed55c137ac227
