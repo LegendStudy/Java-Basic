@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
@@ -51,7 +49,9 @@
     "Application.DataCountMain1.executor": "Run",
     "Application.DataCountMain2.executor": "Run",
     "Application.DataCountMain3.executor": "Run",
+    "Application.DecoDataMain.executor": "Run",
     "Application.DecoMain1.executor": "Run",
+    "Application.DecoMain2.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
@@ -84,20 +84,7 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecoMain2">
-    <configuration name="DataCountMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain1" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="static1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DecoDataMain">
     <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static1.DataCountMain2" />
       <module name="java-basic2" />
@@ -117,6 +104,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="static1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoDataMain" />
         <item itemvalue="Application.DecoMain2" />
         <item itemvalue="Application.DecoMain1" />
         <item itemvalue="Application.DataCountMain3" />
         <item itemvalue="Application.DataCountMain2" />
-        <item itemvalue="Application.DataCountMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <updated>1704767445719</updated>
       <workItem from="1704767449922" duration="20748000" />
       <workItem from="1705150717336" duration="8022000" />
-      <workItem from="1705383409196" duration="10254000" />
+      <workItem from="1705383409196" duration="12661000" />
     </task>
     <servers />
   </component>
