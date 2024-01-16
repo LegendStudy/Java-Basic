@@ -187,3 +187,11 @@ M
 src/static2/DecoDataMain.java,0/e/0e019e8fdc6c151dbc5275ef6f7ffd7a01e277de
 I
 src/static2/DecoData.java,a/a/aa8ce744bf26c0874cb2dec66e616f4004c7bbcb
+K
+src/static2/ex/CarMain.java,2/b/2beb77da3f0ac48ce816ffa70d39495b36a3b68c
+G
+src/static2/ex/Car.java,a/2/a21f3bab37596796e60e62b888a0c6c2e1a5ae0b
+V
+&src/static2/ex/MathArrayUtilsMain.java,8/b/8b42f0c909309628dcf670f1a2b44d72230b1660
+R
+"src/static2/ex/MathArrayUtils.java,1/9/1912151004e417c7657800fe1e7e53dc0aa48564
