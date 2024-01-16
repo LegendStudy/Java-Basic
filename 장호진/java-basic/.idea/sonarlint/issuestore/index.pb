@@ -271,3 +271,13 @@ O
 src/extends1/super2/ClassC.java,0/3/038601cd369e52c10d8d52e6b5dba8ad30e719c3
 S
 #src/extends1/super2/Super2Main.java,c/8/c8c3dd56e547cd9ed61506b23ea04727e7d9130e
+M
+src/extends1/ex/ShopMain.java,2/a/2a94b993841f692ddee099f864bbbdf3c1f3d007
+I
+src/extends1/ex/Item.java,6/d/6d9ca1fb158fa838a72784a369336e48e9c1964e
+I
+src/extends1/ex/Book.java,4/4/443ea241da42091571af66903716661dcd47daaf
+J
+src/extends1/ex/Album.java,2/0/20b6f11e41134803b451cf2cb6816907b96c076f
+J
+src/extends1/ex/Movie.java,a/0/a09bb81272a4a613463ed11fdafdfb2b679e95b0
