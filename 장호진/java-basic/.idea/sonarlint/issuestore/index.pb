@@ -241,3 +241,11 @@ Q
 !src/extends1/ex3/ElectricCar.java,9/3/937a8725be15db1350d3b99a660a309beefe8793
 I
 src/extends1/ex3/Car.java,3/1/31daea2409ba75b58107938d67b49de5a435a652
+P
+ src/extends1/overriding/Car.java,2/1/214c5d94dd35c709c79a0ae238567262aad6598c
+S
+#src/extends1/overriding/GasCar.java,3/f/3fd9a2c9a6970cf90e5aebc44b326427e6e4f409
+X
+(src/extends1/overriding/ElectricCar.java,a/c/acbf50cf81c323df054bc18312409888dc1d795c
+T
+$src/extends1/overriding/CarMain.java,9/3/93ab2b8d903c6bd962e6474aeda2b87d05dd9d6e

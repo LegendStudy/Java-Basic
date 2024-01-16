@@ -1,6 +1,5 @@
 package extends1.ex3;
 
-
 public class CarMain {
     public static void main(String[] args) {
         ElectricCar electricCar = new ElectricCar();
@@ -16,5 +15,5 @@ public class CarMain {
         hydrogenCar.fillHydrogen();
         hydrogenCar.openDoor();
     }
-    }
 }
+
