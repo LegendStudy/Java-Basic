@@ -159,3 +159,9 @@ D
 src/memory/Data.java,8/2/82ee165c060290dfe175eb2d35488d1558ca37a6
 O
 src/memory/JavaMemoryMain2.java,b/d/bdaab9e123be2aa3d5d456dfa4ea64a6522225b6
+E
+src/memory/Data1.java,3/3/330d90b754aaf4475ec5c1f11f295506f495103f
+F
+src/static1/Data1.java,c/5/c5c7b48e292856b6ffd6b723b258c2e5967c1757
+O
+src/static1/DataCountMain1.java,c/0/c0548ecfb081eb9782a64b9d1eed34b4ae1ccbff
