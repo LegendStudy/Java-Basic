@@ -1,4 +1,4 @@
-package final1;
+package week2.final1;
 
 public class FiledInit {
     static final int CONST_VALUE = 10;

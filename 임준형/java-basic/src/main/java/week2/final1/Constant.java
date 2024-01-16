@@ -1,4 +1,4 @@
-package final1;
+package week2.final1;
 
 //상수
 public class Constant {

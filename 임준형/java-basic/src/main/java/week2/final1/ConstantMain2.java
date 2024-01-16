@@ -1,4 +1,4 @@
-package final1;
+package week2.final1;
 
 public class ConstantMain2 {
 
