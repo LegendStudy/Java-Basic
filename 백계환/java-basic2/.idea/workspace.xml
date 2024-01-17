@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
@@ -48,6 +46,7 @@
     "Application.AccessOuterMain.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
     "Application.CounterMain.executor": "Run",
     "Application.DataCountMain1.executor": "Run",
     "Application.DataCountMain2.executor": "Run",
@@ -89,7 +88,7 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalFieldMain">
+  <component name="RunManager" selected="Application.ConstantMain1">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic2" />
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoMain2" />
+    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstantMain1" />
         <item itemvalue="Application.FinalFieldMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.DecoDataMain" />
-        <item itemvalue="Application.DecoMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <updated>1704767445719</updated>
       <workItem from="1704767449922" duration="20748000" />
       <workItem from="1705150717336" duration="8022000" />
-      <workItem from="1705383409196" duration="15982000" />
+      <workItem from="1705383409196" duration="17502000" />
     </task>
     <servers />
   </component>
