@@ -1,0 +1,14 @@
+
+y
+java:S1104"WMake publicValue a static final constant or non-public and provide accessors if needed.(Âö¥ßùÿÿÿÿ8’Ïƒ¡Ñ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§³¢ûşÿÿÿÿ8”Ïƒ¡Ñ1
+G	java:S106
+"+Replace this use of System.out by a logger.(÷•æ¦8Ïƒ¡Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(½¬´ê8Ïƒ¡Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(¿“óùÿÿÿÿ8ŸÏƒ¡Ñ1
+F	java:S106"+Replace this use of System.out by a logger.(¡Ù¸`8ŸÏƒ¡Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(‡Ğƒ¯ùÿÿÿÿ8 Ïƒ¡Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Øı„çúÿÿÿÿ8 Ïƒ¡Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(€¦®‚øÿÿÿÿ8 Ïƒ¡Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¶­Ì8 Ïƒ¡Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(‘êŠúÿÿÿÿÿ8 Ïƒ¡Ñ1
