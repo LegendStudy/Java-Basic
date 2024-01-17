@@ -1,4 +1,4 @@
-package week2.extends1;
+package week2.extends1.ex1;
 
 public class GasCar {
     public void move() {

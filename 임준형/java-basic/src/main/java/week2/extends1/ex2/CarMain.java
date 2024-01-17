@@ -1,6 +1,9 @@
-package week2.extends1;
+package week2.extends1.ex2;
+
 
 public class CarMain {
+
+
     public static void main(String[] args) {
         ElectricCar electricCar = new ElectricCar();
         electricCar.move();
@@ -10,4 +13,5 @@ public class CarMain {
         gasCar.move();
         gasCar.fillUp();
     }
+
 }
