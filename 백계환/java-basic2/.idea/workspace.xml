@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/GasCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,7 @@
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -87,7 +91,20 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberMain">
+  <component name="RunManager" selected="Application.CarMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex.CarMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic2" />
@@ -127,19 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final1.ex.MemberMain" />
       <module name="java-basic2" />
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.MemberMain" />
         <item itemvalue="Application.FinalRefMain" />
         <item itemvalue="Application.ConstantMain1" />
         <item itemvalue="Application.FinalFieldMain" />
-        <item itemvalue="Application.MathArrayUtilsMain" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +184,7 @@
       <updated>1704767445719</updated>
       <workItem from="1704767449922" duration="20748000" />
       <workItem from="1705150717336" duration="8022000" />
-      <workItem from="1705383409196" duration="18801000" />
+      <workItem from="1705383409196" duration="19853000" />
     </task>
     <servers />
   </component>
