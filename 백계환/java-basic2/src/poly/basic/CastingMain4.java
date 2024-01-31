@@ -1,0 +1,18 @@
+package poly.basic;
+
+// 다운 캐스팅을 자동으로 하지 않는 이유
+public class CastingMain4 {
+
+    public static void main(String[] args) {
+
+        Parent parent1 = new Child(); // 부모는 자식을 담을 수 있다.
+        Child child1 = (Child) parent1;
+        child1.parentMethod();
+        child1.childMethod();
+
+        Parent parent2 = new Parent();
+        Child child2 = (Child) parent2;
+        child2.parentMethod();
+        child2.childMethod();
+    }
+}

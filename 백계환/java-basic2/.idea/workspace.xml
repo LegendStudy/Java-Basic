@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
@@ -48,6 +47,7 @@
     "Application.CarMain.executor": "Run",
     "Application.CastingMain1.executor": "Run",
     "Application.CastingMain3.executor": "Run",
+    "Application.CastingMain4.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
     "Application.CounterMain.executor": "Run",
     "Application.DataCountMain1.executor": "Run",
@@ -200,7 +200,7 @@
       <workItem from="1704767449922" duration="20748000" />
       <workItem from="1705150717336" duration="8022000" />
       <workItem from="1705383409196" duration="26512000" />
-      <workItem from="1706681503692" duration="2204000" />
+      <workItem from="1706681503692" duration="2961000" />
     </task>
     <servers />
   </component>
