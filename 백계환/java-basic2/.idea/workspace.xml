@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be72260-b848-49e6-be4e-277e48149a18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/ex/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/ex/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/ex/GasCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,55 +39,55 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AccessInnerMain.executor": "Run",
-    "Application.AccessOuterMain.executor": "Run",
-    "Application.BankAccountMain.executor": "Run",
-    "Application.CarMain.executor": "Run",
-    "Application.ConstantMain1.executor": "Run",
-    "Application.CounterMain.executor": "Run",
-    "Application.DataCountMain1.executor": "Run",
-    "Application.DataCountMain2.executor": "Run",
-    "Application.DataCountMain3.executor": "Run",
-    "Application.DecoDataMain.executor": "Run",
-    "Application.DecoMain1.executor": "Run",
-    "Application.DecoMain2.executor": "Run",
-    "Application.ExtendsAccessMain.executor": "Run",
-    "Application.FinalFieldMain.executor": "Run",
-    "Application.FinalRefMain.executor": "Run",
-    "Application.JavaMemoryMain1.executor": "Run",
-    "Application.JavaMemoryMain2.executor": "Run",
-    "Application.MathArrayUtilsMain.executor": "Run",
-    "Application.MemberMain.executor": "Run",
-    "Application.ShopMain.executor": "Run",
-    "Application.ShoppingCartMain.executor": "Run",
-    "Application.SpeakerMain.executor": "Run",
-    "Application.Super1Main.executor": "Run",
-    "Application.Super2Main.executor": "Run",
-    "Application.extends1.ex2.CarMain.executor": "Run",
-    "Application.extends1.ex3.CarMain.executor": "Run",
-    "Application.extends1.overriding.CarMain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "baekgyehwan",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/extends1/overriding",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AccessInnerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessOuterMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstantMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoDataMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtendsAccessMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalFieldMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalRefMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathArrayUtilsMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShopMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Super1Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Super2Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.extends1.ex2.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.extends1.ex3.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.extends1.overriding.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;baekgyehwan&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/extends1/overriding&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/extends1/overriding" />
@@ -110,7 +102,7 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShopMain">
+  <component name="RunManager">
     <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic2" />
@@ -203,7 +195,7 @@
       <updated>1704767445719</updated>
       <workItem from="1704767449922" duration="20748000" />
       <workItem from="1705150717336" duration="8022000" />
-      <workItem from="1705383409196" duration="25243000" />
+      <workItem from="1705383409196" duration="26512000" />
     </task>
     <servers />
   </component>
