@@ -11,6 +11,19 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex/GasCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/order/OrderHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/helloshop/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+
         <option value="Class" />
       </list>
     </option>
@@ -34,6 +48,9 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2ahOf9mqenx9XSTDseAIElfg01B" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -117,6 +134,14 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extends1.access.*" />
+  <component name="RunManager" selected="Application.PackageMain3">
+    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construct.ex.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +155,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extends1.ex.*" />
+    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,6 +174,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extends1.super1.*" />
+    <configuration name="PackageMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack.PackageMain1" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,6 +193,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extends1.super2.*" />
+    <configuration name="PackageMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack.PackageMain2" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,6 +212,12 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extends1.overriding.*" />
+    <configuration name="PackageMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack.PackageMain3" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,6 +242,14 @@
       </set>
     </attachedChunks>
   </component>
+        <item itemvalue="Application.PackageMain3" />
+        <item itemvalue="Application.PackageMain2" />
+        <item itemvalue="Application.PackageMain1" />
+        <item itemvalue="Application.BookMain" />
+        <item itemvalue="Application.ConstructMain2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -205,6 +262,8 @@
       <workItem from="1705150717336" duration="8022000" />
       <workItem from="1705383409196" duration="26512000" />
       <workItem from="1706681503692" duration="6366000" />
+      <workItem from="1705383409196" duration="25243000" />
+      <workItem from="1704767449922" duration="17852000" />
     </task>
     <servers />
   </component>
