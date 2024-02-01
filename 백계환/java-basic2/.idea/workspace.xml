@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8674d59-e516-4d87-a100-2c2a8016a09b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractMain.executor": "Run",
     "Application.AnimalPolyMain1.executor": "Run",
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalSoundMain.executor": "Run",
