@@ -19,6 +19,6 @@ public class OverridingMain {
         System.out.println("Parent -> Child");
         System.out.println("value = " + poly.value);    // 변수는 오버라이딩 X
         poly.method();  // 메서드는 오버라이딩
-        // 오버라이딩 된 메서드는 항상 우선권을 가진다
+        // 오버라이딩 된 메서드는 항상 우선권을 가진딩
     }
 }
