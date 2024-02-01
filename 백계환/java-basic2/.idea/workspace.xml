@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8674d59-e516-4d87-a100-2c2a8016a09b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/DiamondMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,6 +38,8 @@
     "Application.AnimalPolyMain1.executor": "Run",
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalSoundMain.executor": "Run",
+    "Application.DiamondMain.executor": "Run",
+    "Application.InterfaceMain.executor": "Run",
     "git-widget-placeholder": "baekgyehwan",
     "last_opened_file_path": "/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/poly/ex4",
     "node.js.selected.package.tslint": "(autodetect)"
@@ -42,6 +50,7 @@
       <recent name="$PROJECT_DIR$/src/poly/ex4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.diamond" />
       <recent name="poly.ex2" />
     </key>
   </component>
