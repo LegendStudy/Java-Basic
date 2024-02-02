@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8674d59-e516-4d87-a100-2c2a8016a09b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/DiamondMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/SoundFlyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,7 @@
     "Application.AnimalSoundMain.executor": "Run",
     "Application.DiamondMain.executor": "Run",
     "Application.InterfaceMain.executor": "Run",
+    "Application.SoundFlyMain.executor": "Run",
     "git-widget-placeholder": "baekgyehwan",
     "last_opened_file_path": "/Users/gyehwan/Desktop/java-study/백계환/java-basic2/src/poly/ex4",
     "node.js.selected.package.tslint": "(autodetect)"
