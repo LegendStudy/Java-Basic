@@ -9,5 +9,11 @@ public class CarMain0 {
 
         drvier.setK3Car(k3Car);
         drvier.drive();
+
+        // 추가
+        Model3Car model3Car = new Model3Car();
+        drvier.setK3Car(null);
+        drvier.setModel3Car(model3Car);
+        drvier.drive();
     }
 }
