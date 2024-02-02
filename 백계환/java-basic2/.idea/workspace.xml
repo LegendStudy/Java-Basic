@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8674d59-e516-4d87-a100-2c2a8016a09b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/car0/Drvier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Drvier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalSoundMain.executor": "Run",
     "Application.CarMain0.executor": "Run",
+    "Application.CarMain1.executor": "Run",
     "Application.DiamondMain.executor": "Run",
     "Application.InterfaceMain.executor": "Run",
     "Application.SoundFlyMain.executor": "Run",
@@ -50,7 +52,7 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain0">
+  <component name="RunManager">
     <configuration name="AnimalPolyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain2" />
       <module name="java-basic2" />
