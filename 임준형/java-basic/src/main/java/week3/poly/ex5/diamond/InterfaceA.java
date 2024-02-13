@@ -1,4 +1,4 @@
-package week3.poly.diamond;
+package week3.poly.ex5.diamond;
 
 public interface InterfaceA {
     void methodA();

@@ -1,4 +1,4 @@
-package week3.poly.diamond;
+package week3.poly.ex5.diamond;
 
 public class DiamondMain {
     public static void main(String[] args) {
